@@ -1,5 +1,4 @@
 class UsersController < ApplicationController
-  rescue_from ActiveRecord::RecordNotUnique, with: :not_unique_response
 
   def register
     @user = User.new
@@ -16,21 +15,33 @@ class UsersController < ApplicationController
   
   def create
     # require 'pry'; binding.pry
+    # @user.new(user_params)
+
     if params[:user][:password] == params[:user][:password_confirmation]
       user = user_params
       if user[:name].blank? || user[:email].blank?
         flash[:error] = "Name nor Email can be blank"
         redirect_back(fallback_location: register_path)
       else
-        @user = User.create!(user_params)
+        begin
+          @user = User.create!(user_params)
+          redirect_to user_path(@user.id)
+        rescue ActiveRecord::RecordInvalid => e
+          if e.message.include?("email")
+            flash[:error] = "Email is already taken. Please choose a different one."
+          end
+          redirect_to register_path
+        end
       end
-      require 'pry'; binding.pry
+      # require 'pry'; binding.pry
     else
       flash[:error] = "Passwords must match"
       redirect_back(fallback_location: register_path)
     end
-    require 'pry'; binding.pry
-    redirect_to user_path(@user)
+    # require 'pry'; binding.pry
+    # redirect_to user_path(@user)
+
+
     # if @user.name.blank? || @user.email.blank?
     #   flash[:alert] = 'Name or Email cannot be blank'
     #   redirect_back(fallback_location: new_user_path)
@@ -51,8 +62,4 @@ class UsersController < ApplicationController
   def user_params
     params.require(:user).permit(:name, :email, :password)
   end 
-
-  def not_unique_response(exception)
-    render json: ErrorSerializer.new(ErrorMessage.new(exception.message, 404)).serialize_json, status: :not_found
-  end
 end
