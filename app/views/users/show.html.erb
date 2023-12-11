@@ -6,7 +6,7 @@
 <p> Attending Parties </p>
 <div id="user_parties">
   <h3>These are your Viewing Parties</h3>
-  <% @user.parties.each do |party| %>
+  <% @user.parties.uniq.each do |party| %>
   <h4> <%= party.name %> <br></h4>
       <% @movies.each do |movie| %>
         <% if party.movie_id == movie[:id] %>

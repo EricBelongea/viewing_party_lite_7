@@ -1,7 +1,7 @@
 def load_test_data
-  @user1 = User.create!(name: "Capitainlearyo", email: "example1@yahoo.com")
-  @user2 = User.create!(name: "Slick Ric", email: "uhhh@gmail.com")
-  @user3 = User.create!(name: "Bob", email: "Bob@a_website.com")
+  @user1 = User.create!(name: "Capitainlearyo", email: "example1@yahoo.com", password: "test")
+  @user2 = User.create!(name: "Slick Ric", email: "uhhh@gmail.com", password: "test")
+  @user3 = User.create!(name: "Bob", email: "Bob@a_website.com", password: "test")
 
   @party1 = @user1.parties.create!(name: "party1", movie_id: 11, movie_title: "Star Wars", duration: 120, date: '2023/08/01', start_time: '10:00')
   @party2 = @user1.parties.create!(name: "party2", movie_id: 120, movie_title: "LOTR", duration: 180, date: '2023/09/01', start_time: '11:00')
