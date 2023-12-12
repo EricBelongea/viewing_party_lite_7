@@ -1,7 +1,7 @@
 <%= form_with model: @user do |f| %>
   <%= f.label :email, "Email:"  %>
-  <%= f.text_field :email %>
+  <%= f.text_field :email, required: true %>
   <%= f.label :password, "Password:"  %>
-  <%= f.password_field :password %>
+  <%= f.password_field :password, required: true %>
   <%= f.submit "Login"%>
 <% end %>
