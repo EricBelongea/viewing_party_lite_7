@@ -9,13 +9,12 @@ class UsersController < ApplicationController
   end
 
   def login_user
-    require 'pry'; binding.pry
     user = User.find_by(email: params[:email])
     if user.authenticate(params[:password])
       redirect_to user_path(user)
     else
       flash[:error] = "Sorry, your credentials are bad"
-      render :login_form
+      redirect_back(fallback_location: login_path)
     end
   end
 
