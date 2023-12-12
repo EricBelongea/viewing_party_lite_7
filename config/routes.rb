@@ -11,8 +11,10 @@ Rails.application.routes.draw do
   end
   get "/register", to: "users#register"
   post "/register", to: "users#create"
+# make an alias for register ---> new
+  get "/login", to: "users#login_form"
+  post "/login", to: "users#login_user"
 
-  
   get "/users/:id/discover", to: "movies#index"
   get "/users/:id/movies", to: "movies#search"
   get "/users/:id/movies/:movie_id", to: "movies#show"

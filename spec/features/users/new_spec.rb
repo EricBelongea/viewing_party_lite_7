@@ -89,5 +89,19 @@ RSpec.describe 'User Registration Page' do
       expect(page).to_not have_content("Name nor Email can be blank")
       expect(current_path).to eq(register_path)
     end
+
+    it "has matching passwords" do
+      visit register_path
+
+      fill_in "Name", with: "Sherlock"
+      fill_in "Email", with: "example1@yahoo.com"
+      fill_in "Password:", with: "test"
+      fill_in "Confirm Password:", with: "test12"
+      click_button "Register"
+
+      expect(page).to have_content('Passwords must match')
+      expect(page).to_not have_content("Name nor Email can be blank")
+      expect(current_path).to eq(register_path)
+    end
   end
 end
