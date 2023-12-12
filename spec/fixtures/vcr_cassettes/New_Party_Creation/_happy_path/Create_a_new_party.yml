@@ -31,26 +31,30 @@ http_interactions:
       X-Memc-Key:
       - 5dfd93b8685f3044b4e3a03ef882eddf
       X-Memc-Age:
-      - '1343'
+
+      - '4499'
       X-Memc-Expires:
-      - '22256'
+      - '19377'
       Date:
-      - Sat, 02 Dec 2023 00:19:21 GMT
+      - Mon, 11 Dec 2023 22:01:57 GMT
+
       Etag:
-      - W/"de6b8483b176e09dcd5936b00a3ffebd"
+      - W/"5a5d7966e680698aa51f1b2753649cd5"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - RefreshHit from cloudfront
       Via:
-      - 1.1 10bf5e2f3ff7eaefa287c49657b8a838.cloudfront.net (CloudFront)
+
+      - 1.1 694410c900be78078eeebf840a01e4c8.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - 7jH5PO4LUH-DWZ86roC7u4CarwwH3CIouEBBYKACcbVIj0eRWn_OVg==
+      - zE8qLJHd38o1mG1dp1bWbpcINTQM1d3uw2m56tUgdIsZySVN8spW8g==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg","belongs_to_collection":{"id":10,"name":"Star
@@ -60,12 +64,14 @@ http_interactions:
         forces in their effort to take over the galactic Empire. Venturesome Luke
         Skywalker and dashing captain Han Solo team together with the loveable robot
         duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and
-        justice in the Empire.","popularity":97.011,"poster_path":"/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg","production_companies":[{"id":1,"logo_path":"/o86DbpburjxrqAzEDhXZcyE8pDb.png","name":"Lucasfilm
+        justice in the Empire.","popularity":109.1,"poster_path":"/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg","production_companies":[{"id":1,"logo_path":"/tlVSws0RvvtPBwViUyOFAO0vcQS.png","name":"Lucasfilm
         Ltd.","origin_country":"US"},{"id":25,"logo_path":"/qZCc1lty5FzX30aOCVRBLzaVmcp.png","name":"20th
         Century Fox","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1977-05-25","revenue":775398007,"runtime":121,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"A
-        long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.204,"vote_count":19354}'
-  recorded_at: Sat, 02 Dec 2023 00:18:11 GMT
+
+        long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.2,"vote_count":19389}'
+  recorded_at: Mon, 11 Dec 2023 22:01:57 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/120?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -97,26 +103,30 @@ http_interactions:
       X-Memc-Key:
       - c08d8c0e8db4f65ba68fda321b06ca46
       X-Memc-Age:
-      - '5999'
+
+      - '2566'
       X-Memc-Expires:
-      - '22053'
+      - '19035'
       Date:
-      - Sat, 02 Dec 2023 00:19:21 GMT
+      - Mon, 11 Dec 2023 22:01:57 GMT
+
       Etag:
-      - W/"a5391e7f50683ead8a9d5e83a571680d"
+      - W/"679f6734bb06c23402a7b60db981f370"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - RefreshHit from cloudfront
       Via:
-      - 1.1 33491656718dd7c773aaebae9fe9c70e.cloudfront.net (CloudFront)
+
+      - 1.1 83a6f42adff040301dd9cde8ff611a9c.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - nDdQRz6SuswVukpoyN3gLYCFZyOc40sRldKot3xhYJcSYfOIRtVz5Q==
+      - yu-J76Vu8mufYbL8vGlcL2wcU9ja4L7WV7bxAVso4px02b0IoeG-jQ==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg","belongs_to_collection":{"id":119,"name":"The
@@ -126,14 +136,16 @@ http_interactions:
         his home in order to keep it from falling into the hands of its evil creator.
         Along the way, a fellowship is formed to protect the ringbearer and make sure
         that the ring arrives at its final destination: Mt. Doom, the only place where
-        it can be destroyed.","popularity":131.581,"poster_path":"/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg","production_companies":[{"id":12,"logo_path":"/mevhneWSqbjU22D1MXNd4H9x0r0.png","name":"New
+        it can be destroyed.","popularity":177.017,"poster_path":"/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg","production_companies":[{"id":12,"logo_path":"/iaYpEp3LQmb8AfAtmTvpqd4149c.png","name":"New
         Line Cinema","origin_country":"US"},{"id":11,"logo_path":"/6FAuASQHybRkZUk08p9PzSs9ezM.png","name":"WingNut
-        Films","origin_country":"NZ"},{"id":5237,"logo_path":null,"name":"The Saul
-        Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
+        Films","origin_country":"NZ"},{"id":5237,"logo_path":"/mlnr7vsBHvLye8oEb5A76C0t8x9.png","name":"The
+        Saul Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
         Zealand"},{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2001-12-18","revenue":871368364,"runtime":179,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"One
         ring to rule them all","title":"The Lord of the Rings: The Fellowship of the
-        Ring","video":false,"vote_average":8.405,"vote_count":23593}'
-  recorded_at: Sat, 02 Dec 2023 00:18:11 GMT
+
+        Ring","video":false,"vote_average":8.406,"vote_count":23638}'
+  recorded_at: Mon, 11 Dec 2023 22:01:57 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/20?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -159,7 +171,9 @@ http_interactions:
       Connection:
       - keep-alive
       Date:
-      - Sat, 02 Dec 2023 00:19:21 GMT
+
+      - Mon, 11 Dec 2023 22:01:58 GMT
+
       Server:
       - openresty
       X-Memc:
@@ -167,34 +181,110 @@ http_interactions:
       X-Memc-Key:
       - 2f19019284ff58d07a668fd3407120ec
       X-Memc-Age:
-      - '12065'
+
+      - '24916'
       X-Memc-Expires:
-      - '14590'
+      - '531'
+
       Etag:
-      - W/"7e59fd56b130a77afe1c8121b0c07843"
+      - W/"3ef7481efd5f40e89e174a013c11901b"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - Miss from cloudfront
       Via:
-      - 1.1 bf3afc8f6efd6d2679e218a7870bc652.cloudfront.net (CloudFront)
+
+      - 1.1 694410c900be78078eeebf840a01e4c8.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - 6elHXIgfAFrsv4qPP-BPkoFYc7YKN1th4oFWXWNgFhZmya2Icls3ZQ==
+      - rThZiT229h2d7RvHUXECcvVMfuM-KMPOGrbTeHL6F-192v1rUMpLbw==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/kZyurQjTMLHalUxs7sHgH5XeiwO.jpg","belongs_to_collection":null,"budget":2500000,"genres":[{"id":18,"name":"Drama"},{"id":10749,"name":"Romance"}],"homepage":"http://www.clubcultura.com/clubcine/clubcineastas/isabelcoixet/mividasinmi/index.htm","id":20,"imdb_id":"tt0314412","original_language":"en","original_title":"My
         Life Without Me","overview":"A fatally ill mother with only two months to
         live creates a list of things she wants to do before she dies without telling
-        her family of her illness.","popularity":17.807,"poster_path":"/sFSkn5rrQqXJkRNa2rMWqzmEuhR.jpg","production_companies":[{"id":49,"logo_path":"/xpf5iHdvvBtsH8jBMlgIJHAET0c.png","name":"El
+        her family of her illness.","popularity":27.108,"poster_path":"/sFSkn5rrQqXJkRNa2rMWqzmEuhR.jpg","production_companies":[{"id":49,"logo_path":"/xpf5iHdvvBtsH8jBMlgIJHAET0c.png","name":"El
         Deseo","origin_country":"ES"},{"id":77,"logo_path":null,"name":"Milestone
         Productions","origin_country":""}],"production_countries":[{"iso_3166_1":"CA","name":"Canada"},{"iso_3166_1":"ES","name":"Spain"}],"release_date":"2003-03-07","revenue":12300000,"runtime":106,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"","title":"My
-        Life Without Me","video":false,"vote_average":5.955,"vote_count":425}'
-  recorded_at: Sat, 02 Dec 2023 00:18:11 GMT
+
+        Life Without Me","video":false,"vote_average":5.91,"vote_count":434}'
+  recorded_at: Mon, 11 Dec 2023 22:01:58 GMT
+
+- request:
+    method: get
+    uri: https://api.themoviedb.org/3/movie/238?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.12
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json;charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Date:
+      - Mon, 11 Dec 2023 22:01:58 GMT
+      Server:
+      - openresty
+      X-Memc:
+      - HIT
+      X-Memc-Key:
+      - 4f4d3badf3c9d576e4abc7160d5da6a0
+      X-Memc-Age:
+
+      - '13020'
+      X-Memc-Expires:
+      - '14742'
+
+      Etag:
+      - W/"78f16e65cea04823f11a7aac88249574"
+      Vary:
+      - Accept-Encoding
+      - Origin
+      X-Cache:
+      - Miss from cloudfront
+      Via:
+
+      - 1.1 01dbe7e23991a177a7cdfba5803db41c.cloudfront.net (CloudFront)
+      X-Amz-Cf-Pop:
+      - SFO53-C1
+      Alt-Svc:
+      - h3=":443"; ma=86400
+      X-Amz-Cf-Id:
+      - 50TyFktL5vkIX6Bz1bEpiGtVgbXhVUrymtUkcHwXsz73RiA0ozzy-A==
+
+    body:
+      encoding: ASCII-8BIT
+      string: '{"adult":false,"backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg","belongs_to_collection":{"id":230,"name":"The
+        Godfather Collection","poster_path":"/zqV8MGXfpLZiFVObLxpAI7wWonJ.jpg","backdrop_path":"/3WZTxpgscsmoUk81TuECXdFOD0R.jpg"},"budget":6000000,"genres":[{"id":18,"name":"Drama"},{"id":80,"name":"Crime"}],"homepage":"http://www.thegodfather.com/","id":238,"imdb_id":"tt0068646","original_language":"en","original_title":"The
+        Godfather","overview":"Spanning the years 1945 to 1955, a chronicle of the
+        fictional Italian-American Corleone crime family. When organized crime family
+        patriarch, Vito Corleone barely survives an attempt on his life, his youngest
+        son, Michael steps in to take care of the would-be killers, launching a campaign
+        of bloody revenge.","popularity":203.45,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
+        Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
+        States of America"}],"release_date":"1972-03-14","revenue":245066411,"runtime":175,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Italian","iso_639_1":"it","name":"Italiano"},{"english_name":"Latin","iso_639_1":"la","name":"Latin"}],"status":"Released","tagline":"An
+
+        offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.709,"vote_count":19085}'
+  recorded_at: Mon, 11 Dec 2023 22:01:58 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/238?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -226,26 +316,30 @@ http_interactions:
       X-Memc-Key:
       - 4f4d3badf3c9d576e4abc7160d5da6a0
       X-Memc-Age:
-      - '1355'
+
+      - '13020'
       X-Memc-Expires:
-      - '22870'
+      - '14742'
       Date:
-      - Sat, 02 Dec 2023 00:19:21 GMT
+      - Mon, 11 Dec 2023 22:01:58 GMT
+
       Etag:
-      - W/"571ab4f4b50d676093ea10eaf4708063"
+      - W/"78f16e65cea04823f11a7aac88249574"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - RefreshHit from cloudfront
       Via:
-      - 1.1 3248b2a80cad9439db62dc48b3adc18e.cloudfront.net (CloudFront)
+
+      - 1.1 ca38026a6de2ccb3904aed4709dff3d0.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - stCwU4SRkToLSpzIu48WaQeiGgmYyU14gbj_P-gXPy9CEC3FItR2OQ==
+      - V-Vio-LBpwVomJkzLRvimg7AGMFHBWplwRHo8QsMyBabAP2hx-VrZQ==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg","belongs_to_collection":{"id":230,"name":"The
@@ -254,75 +348,13 @@ http_interactions:
         fictional Italian-American Corleone crime family. When organized crime family
         patriarch, Vito Corleone barely survives an attempt on his life, his youngest
         son, Michael steps in to take care of the would-be killers, launching a campaign
-        of bloody revenge.","popularity":153.632,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
+        of bloody revenge.","popularity":203.45,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
         Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1972-03-14","revenue":245066411,"runtime":175,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Italian","iso_639_1":"it","name":"Italiano"},{"english_name":"Latin","iso_639_1":"la","name":"Latin"}],"status":"Released","tagline":"An
-        offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.708,"vote_count":19034}'
-  recorded_at: Sat, 02 Dec 2023 00:18:11 GMT
-- request:
-    method: get
-    uri: https://api.themoviedb.org/3/movie/238?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
-    body:
-      encoding: US-ASCII
-      string: ''
-    headers:
-      User-Agent:
-      - Faraday v2.7.12
-      Accept-Encoding:
-      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
-      Accept:
-      - "*/*"
-  response:
-    status:
-      code: 200
-      message: OK
-    headers:
-      Content-Type:
-      - application/json;charset=utf-8
-      Transfer-Encoding:
-      - chunked
-      Connection:
-      - keep-alive
-      Server:
-      - openresty
-      X-Memc:
-      - HIT
-      X-Memc-Key:
-      - 4f4d3badf3c9d576e4abc7160d5da6a0
-      X-Memc-Age:
-      - '1355'
-      X-Memc-Expires:
-      - '22870'
-      Date:
-      - Sat, 02 Dec 2023 00:19:22 GMT
-      Etag:
-      - W/"571ab4f4b50d676093ea10eaf4708063"
-      Vary:
-      - Accept-Encoding
-      - Origin
-      X-Cache:
-      - RefreshHit from cloudfront
-      Via:
-      - 1.1 d148370a131bf3f501366f80f7139d32.cloudfront.net (CloudFront)
-      X-Amz-Cf-Pop:
-      - DFW57-P2
-      Alt-Svc:
-      - h3=":443"; ma=86400
-      X-Amz-Cf-Id:
-      - Imq3sr8-2bdLFTcbvdFMtDGxhKf4Tk1PrVBUIxIO3lU7v6RQ69JO5Q==
-    body:
-      encoding: ASCII-8BIT
-      string: '{"adult":false,"backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg","belongs_to_collection":{"id":230,"name":"The
-        Godfather Collection","poster_path":"/zqV8MGXfpLZiFVObLxpAI7wWonJ.jpg","backdrop_path":"/3WZTxpgscsmoUk81TuECXdFOD0R.jpg"},"budget":6000000,"genres":[{"id":18,"name":"Drama"},{"id":80,"name":"Crime"}],"homepage":"http://www.thegodfather.com/","id":238,"imdb_id":"tt0068646","original_language":"en","original_title":"The
-        Godfather","overview":"Spanning the years 1945 to 1955, a chronicle of the
-        fictional Italian-American Corleone crime family. When organized crime family
-        patriarch, Vito Corleone barely survives an attempt on his life, his youngest
-        son, Michael steps in to take care of the would-be killers, launching a campaign
-        of bloody revenge.","popularity":153.632,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
-        Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
-        States of America"}],"release_date":"1972-03-14","revenue":245066411,"runtime":175,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Italian","iso_639_1":"it","name":"Italiano"},{"english_name":"Latin","iso_639_1":"la","name":"Latin"}],"status":"Released","tagline":"An
-        offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.708,"vote_count":19034}'
-  recorded_at: Sat, 02 Dec 2023 00:18:11 GMT
+
+        offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.709,"vote_count":19085}'
+  recorded_at: Mon, 11 Dec 2023 22:01:58 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/11?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -354,26 +386,30 @@ http_interactions:
       X-Memc-Key:
       - 5dfd93b8685f3044b4e3a03ef882eddf
       X-Memc-Age:
-      - '1343'
+
+      - '4499'
       X-Memc-Expires:
-      - '22256'
+      - '19377'
       Date:
-      - Sat, 02 Dec 2023 00:19:22 GMT
+      - Mon, 11 Dec 2023 22:01:58 GMT
+
       Etag:
-      - W/"de6b8483b176e09dcd5936b00a3ffebd"
+      - W/"5a5d7966e680698aa51f1b2753649cd5"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - RefreshHit from cloudfront
       Via:
-      - 1.1 4b0fbb3ec29f742ee0efe0ccfd7e3bd8.cloudfront.net (CloudFront)
+
+      - 1.1 abc09cc7557c1b633f2222f0c307d884.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - 48XnjAH3UdB97Li1OvmrLBKQinXCM3R2iM5hd9KC_nJJU_2F9BzgJg==
+      - 8mcixzasedxuGGXdsaKValIixEkT6Lz2TnMqCFQLHEeQjzEaenfPOw==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg","belongs_to_collection":{"id":10,"name":"Star
@@ -383,12 +419,14 @@ http_interactions:
         forces in their effort to take over the galactic Empire. Venturesome Luke
         Skywalker and dashing captain Han Solo team together with the loveable robot
         duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and
-        justice in the Empire.","popularity":97.011,"poster_path":"/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg","production_companies":[{"id":1,"logo_path":"/o86DbpburjxrqAzEDhXZcyE8pDb.png","name":"Lucasfilm
+        justice in the Empire.","popularity":109.1,"poster_path":"/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg","production_companies":[{"id":1,"logo_path":"/tlVSws0RvvtPBwViUyOFAO0vcQS.png","name":"Lucasfilm
         Ltd.","origin_country":"US"},{"id":25,"logo_path":"/qZCc1lty5FzX30aOCVRBLzaVmcp.png","name":"20th
         Century Fox","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1977-05-25","revenue":775398007,"runtime":121,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"A
-        long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.204,"vote_count":19354}'
-  recorded_at: Sat, 02 Dec 2023 00:18:11 GMT
+
+        long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.2,"vote_count":19389}'
+  recorded_at: Mon, 11 Dec 2023 22:01:58 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/120?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -420,26 +458,30 @@ http_interactions:
       X-Memc-Key:
       - c08d8c0e8db4f65ba68fda321b06ca46
       X-Memc-Age:
-      - '5999'
+
+      - '2566'
       X-Memc-Expires:
-      - '22053'
+      - '19035'
       Date:
-      - Sat, 02 Dec 2023 00:19:22 GMT
+      - Mon, 11 Dec 2023 22:01:58 GMT
+
       Etag:
-      - W/"a5391e7f50683ead8a9d5e83a571680d"
+      - W/"679f6734bb06c23402a7b60db981f370"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - RefreshHit from cloudfront
       Via:
-      - 1.1 b3dfeca2b179bbcb23e584f32e44fa6c.cloudfront.net (CloudFront)
+
+      - 1.1 f2ad9d6c3218f50a68fdbc2b2af517aa.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - 7tHTx0EBXZep2_d1_te4QNpzCWjiiKh0X4C3dP6Hmx02hg4karfaZg==
+      - Y33hSoS9sD7T6WQlRL94te52fzrk7W4SfvJlKvnoQp8HWIsvqxXAjw==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg","belongs_to_collection":{"id":119,"name":"The
@@ -449,14 +491,16 @@ http_interactions:
         his home in order to keep it from falling into the hands of its evil creator.
         Along the way, a fellowship is formed to protect the ringbearer and make sure
         that the ring arrives at its final destination: Mt. Doom, the only place where
-        it can be destroyed.","popularity":131.581,"poster_path":"/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg","production_companies":[{"id":12,"logo_path":"/mevhneWSqbjU22D1MXNd4H9x0r0.png","name":"New
+        it can be destroyed.","popularity":177.017,"poster_path":"/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg","production_companies":[{"id":12,"logo_path":"/iaYpEp3LQmb8AfAtmTvpqd4149c.png","name":"New
         Line Cinema","origin_country":"US"},{"id":11,"logo_path":"/6FAuASQHybRkZUk08p9PzSs9ezM.png","name":"WingNut
-        Films","origin_country":"NZ"},{"id":5237,"logo_path":null,"name":"The Saul
-        Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
+        Films","origin_country":"NZ"},{"id":5237,"logo_path":"/mlnr7vsBHvLye8oEb5A76C0t8x9.png","name":"The
+        Saul Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
         Zealand"},{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2001-12-18","revenue":871368364,"runtime":179,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"One
         ring to rule them all","title":"The Lord of the Rings: The Fellowship of the
-        Ring","video":false,"vote_average":8.405,"vote_count":23593}'
-  recorded_at: Sat, 02 Dec 2023 00:18:12 GMT
+
+        Ring","video":false,"vote_average":8.406,"vote_count":23638}'
+  recorded_at: Mon, 11 Dec 2023 22:01:58 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/20?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -482,7 +526,9 @@ http_interactions:
       Connection:
       - keep-alive
       Date:
-      - Sat, 02 Dec 2023 00:19:22 GMT
+
+      - Mon, 11 Dec 2023 22:01:58 GMT
+
       Server:
       - openresty
       X-Memc:
@@ -490,34 +536,40 @@ http_interactions:
       X-Memc-Key:
       - 2f19019284ff58d07a668fd3407120ec
       X-Memc-Age:
-      - '12065'
+
+      - '24916'
       X-Memc-Expires:
-      - '14590'
+      - '531'
+
       Etag:
-      - W/"7e59fd56b130a77afe1c8121b0c07843"
+      - W/"3ef7481efd5f40e89e174a013c11901b"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - Miss from cloudfront
       Via:
-      - 1.1 4b0fbb3ec29f742ee0efe0ccfd7e3bd8.cloudfront.net (CloudFront)
+
+      - 1.1 1d07855a178a7ad07a8bd34ed25f09cc.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - svqjM9s537mKFbFZLyijrmb_89SybmSFr0W3f-Ti7HnDIsBK9RlfYg==
+      - l86RguKU1Fe23RAQHAagCv6KpyH0V91XZX7GOSufaPV0GjOkzxBvpw==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/kZyurQjTMLHalUxs7sHgH5XeiwO.jpg","belongs_to_collection":null,"budget":2500000,"genres":[{"id":18,"name":"Drama"},{"id":10749,"name":"Romance"}],"homepage":"http://www.clubcultura.com/clubcine/clubcineastas/isabelcoixet/mividasinmi/index.htm","id":20,"imdb_id":"tt0314412","original_language":"en","original_title":"My
         Life Without Me","overview":"A fatally ill mother with only two months to
         live creates a list of things she wants to do before she dies without telling
-        her family of her illness.","popularity":17.807,"poster_path":"/sFSkn5rrQqXJkRNa2rMWqzmEuhR.jpg","production_companies":[{"id":49,"logo_path":"/xpf5iHdvvBtsH8jBMlgIJHAET0c.png","name":"El
+        her family of her illness.","popularity":27.108,"poster_path":"/sFSkn5rrQqXJkRNa2rMWqzmEuhR.jpg","production_companies":[{"id":49,"logo_path":"/xpf5iHdvvBtsH8jBMlgIJHAET0c.png","name":"El
         Deseo","origin_country":"ES"},{"id":77,"logo_path":null,"name":"Milestone
         Productions","origin_country":""}],"production_countries":[{"iso_3166_1":"CA","name":"Canada"},{"iso_3166_1":"ES","name":"Spain"}],"release_date":"2003-03-07","revenue":12300000,"runtime":106,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"","title":"My
-        Life Without Me","video":false,"vote_average":5.955,"vote_count":425}'
-  recorded_at: Sat, 02 Dec 2023 00:18:12 GMT
+
+        Life Without Me","video":false,"vote_average":5.91,"vote_count":434}'
+  recorded_at: Mon, 11 Dec 2023 22:01:58 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/238?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -549,26 +601,30 @@ http_interactions:
       X-Memc-Key:
       - 4f4d3badf3c9d576e4abc7160d5da6a0
       X-Memc-Age:
-      - '1355'
+
+      - '13020'
       X-Memc-Expires:
-      - '22870'
+      - '14742'
       Date:
-      - Sat, 02 Dec 2023 00:19:22 GMT
+      - Mon, 11 Dec 2023 22:01:59 GMT
+
       Etag:
-      - W/"571ab4f4b50d676093ea10eaf4708063"
+      - W/"78f16e65cea04823f11a7aac88249574"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - RefreshHit from cloudfront
       Via:
-      - 1.1 bf3afc8f6efd6d2679e218a7870bc652.cloudfront.net (CloudFront)
+
+      - 1.1 6d77342eb60c8ea96903996368766612.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - tPaYfysJ6gR3ETO2SpS5rKlUWB27S0OKnJ0XX-fx16KqOn0Hbrd3mA==
+      - uVLPFGALMi4yrLqyeVT7doHjOsRY3IhVxZFPyHSZrOmCHXwpbqDizQ==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg","belongs_to_collection":{"id":230,"name":"The
@@ -577,11 +633,13 @@ http_interactions:
         fictional Italian-American Corleone crime family. When organized crime family
         patriarch, Vito Corleone barely survives an attempt on his life, his youngest
         son, Michael steps in to take care of the would-be killers, launching a campaign
-        of bloody revenge.","popularity":153.632,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
+        of bloody revenge.","popularity":203.45,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
         Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1972-03-14","revenue":245066411,"runtime":175,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Italian","iso_639_1":"it","name":"Italiano"},{"english_name":"Latin","iso_639_1":"la","name":"Latin"}],"status":"Released","tagline":"An
-        offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.708,"vote_count":19034}'
-  recorded_at: Sat, 02 Dec 2023 00:18:12 GMT
+
+        offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.709,"vote_count":19085}'
+  recorded_at: Mon, 11 Dec 2023 22:01:59 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/11?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -613,26 +671,30 @@ http_interactions:
       X-Memc-Key:
       - 5dfd93b8685f3044b4e3a03ef882eddf
       X-Memc-Age:
-      - '1343'
+
+      - '4499'
       X-Memc-Expires:
-      - '22256'
+      - '19377'
       Date:
-      - Sat, 02 Dec 2023 00:19:22 GMT
+      - Mon, 11 Dec 2023 22:01:59 GMT
+
       Etag:
-      - W/"de6b8483b176e09dcd5936b00a3ffebd"
+      - W/"5a5d7966e680698aa51f1b2753649cd5"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - RefreshHit from cloudfront
       Via:
-      - 1.1 c73c454a7c881cf4337ab88377497bfc.cloudfront.net (CloudFront)
+
+      - 1.1 b014854bd0108b7ed0058504b69ccb5a.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - KeXkJxv5eJlWt5s6iAJrqJ8WbCfRfBbDUlUB5w1M-pnyI3o-BK5Uug==
+      - E9SMqs-o5uhYoe8pnxL9AiObCwR2EJMPJCfxwNScrjRDKgaalqU2zw==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg","belongs_to_collection":{"id":10,"name":"Star
@@ -642,12 +704,14 @@ http_interactions:
         forces in their effort to take over the galactic Empire. Venturesome Luke
         Skywalker and dashing captain Han Solo team together with the loveable robot
         duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and
-        justice in the Empire.","popularity":97.011,"poster_path":"/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg","production_companies":[{"id":1,"logo_path":"/o86DbpburjxrqAzEDhXZcyE8pDb.png","name":"Lucasfilm
+        justice in the Empire.","popularity":109.1,"poster_path":"/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg","production_companies":[{"id":1,"logo_path":"/tlVSws0RvvtPBwViUyOFAO0vcQS.png","name":"Lucasfilm
         Ltd.","origin_country":"US"},{"id":25,"logo_path":"/qZCc1lty5FzX30aOCVRBLzaVmcp.png","name":"20th
         Century Fox","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1977-05-25","revenue":775398007,"runtime":121,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"A
-        long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.204,"vote_count":19354}'
-  recorded_at: Sat, 02 Dec 2023 00:18:12 GMT
+
+        long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.2,"vote_count":19389}'
+  recorded_at: Mon, 11 Dec 2023 22:01:59 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/120?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -679,26 +743,30 @@ http_interactions:
       X-Memc-Key:
       - c08d8c0e8db4f65ba68fda321b06ca46
       X-Memc-Age:
-      - '5999'
+
+      - '2566'
       X-Memc-Expires:
-      - '22053'
+      - '19035'
       Date:
-      - Sat, 02 Dec 2023 00:19:22 GMT
+      - Mon, 11 Dec 2023 22:01:59 GMT
+
       Etag:
-      - W/"a5391e7f50683ead8a9d5e83a571680d"
+      - W/"679f6734bb06c23402a7b60db981f370"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - RefreshHit from cloudfront
       Via:
-      - 1.1 c39c9fc28287587de5ef37c524823ffa.cloudfront.net (CloudFront)
+
+      - 1.1 f2ad9d6c3218f50a68fdbc2b2af517aa.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - SjTNNH7eNMZTOyQBQob5I_o0ppKfiEt6PNaHFMrUqurdMKOl77crUA==
+      - uU0TjDSRRgG9zNIqWbvqXE0B99LIYRaTUfuGxqnWdTnY40EnQ6c6sw==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg","belongs_to_collection":{"id":119,"name":"The
@@ -708,14 +776,16 @@ http_interactions:
         his home in order to keep it from falling into the hands of its evil creator.
         Along the way, a fellowship is formed to protect the ringbearer and make sure
         that the ring arrives at its final destination: Mt. Doom, the only place where
-        it can be destroyed.","popularity":131.581,"poster_path":"/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg","production_companies":[{"id":12,"logo_path":"/mevhneWSqbjU22D1MXNd4H9x0r0.png","name":"New
+        it can be destroyed.","popularity":177.017,"poster_path":"/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg","production_companies":[{"id":12,"logo_path":"/iaYpEp3LQmb8AfAtmTvpqd4149c.png","name":"New
         Line Cinema","origin_country":"US"},{"id":11,"logo_path":"/6FAuASQHybRkZUk08p9PzSs9ezM.png","name":"WingNut
-        Films","origin_country":"NZ"},{"id":5237,"logo_path":null,"name":"The Saul
-        Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
+        Films","origin_country":"NZ"},{"id":5237,"logo_path":"/mlnr7vsBHvLye8oEb5A76C0t8x9.png","name":"The
+        Saul Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
         Zealand"},{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2001-12-18","revenue":871368364,"runtime":179,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"One
         ring to rule them all","title":"The Lord of the Rings: The Fellowship of the
-        Ring","video":false,"vote_average":8.405,"vote_count":23593}'
-  recorded_at: Sat, 02 Dec 2023 00:18:12 GMT
+
+        Ring","video":false,"vote_average":8.406,"vote_count":23638}'
+  recorded_at: Mon, 11 Dec 2023 22:01:59 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/20?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -741,7 +811,9 @@ http_interactions:
       Connection:
       - keep-alive
       Date:
-      - Sat, 02 Dec 2023 00:19:22 GMT
+
+      - Mon, 11 Dec 2023 22:01:59 GMT
+
       Server:
       - openresty
       X-Memc:
@@ -749,34 +821,40 @@ http_interactions:
       X-Memc-Key:
       - 2f19019284ff58d07a668fd3407120ec
       X-Memc-Age:
-      - '12065'
+
+      - '24916'
       X-Memc-Expires:
-      - '14590'
+      - '531'
+
       Etag:
-      - W/"7e59fd56b130a77afe1c8121b0c07843"
+      - W/"3ef7481efd5f40e89e174a013c11901b"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - Miss from cloudfront
       Via:
-      - 1.1 217b83eccc1d56126f95c3f716950650.cloudfront.net (CloudFront)
+
+      - 1.1 098d11622fcaacdb87ba92e6eaca351c.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - n0cfbOnQsH0Foe545YOX9McU49xvI89fxrdRZeO_BOhchZUbNVc0vQ==
+      - "-O90cZ7jgeCT2RpL0JpiBpFMKdvh6H9Sc2B5PX3KHtdNNa-ARp_6_g=="
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/kZyurQjTMLHalUxs7sHgH5XeiwO.jpg","belongs_to_collection":null,"budget":2500000,"genres":[{"id":18,"name":"Drama"},{"id":10749,"name":"Romance"}],"homepage":"http://www.clubcultura.com/clubcine/clubcineastas/isabelcoixet/mividasinmi/index.htm","id":20,"imdb_id":"tt0314412","original_language":"en","original_title":"My
         Life Without Me","overview":"A fatally ill mother with only two months to
         live creates a list of things she wants to do before she dies without telling
-        her family of her illness.","popularity":17.807,"poster_path":"/sFSkn5rrQqXJkRNa2rMWqzmEuhR.jpg","production_companies":[{"id":49,"logo_path":"/xpf5iHdvvBtsH8jBMlgIJHAET0c.png","name":"El
+        her family of her illness.","popularity":27.108,"poster_path":"/sFSkn5rrQqXJkRNa2rMWqzmEuhR.jpg","production_companies":[{"id":49,"logo_path":"/xpf5iHdvvBtsH8jBMlgIJHAET0c.png","name":"El
         Deseo","origin_country":"ES"},{"id":77,"logo_path":null,"name":"Milestone
         Productions","origin_country":""}],"production_countries":[{"iso_3166_1":"CA","name":"Canada"},{"iso_3166_1":"ES","name":"Spain"}],"release_date":"2003-03-07","revenue":12300000,"runtime":106,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"","title":"My
-        Life Without Me","video":false,"vote_average":5.955,"vote_count":425}'
-  recorded_at: Sat, 02 Dec 2023 00:18:12 GMT
+
+        Life Without Me","video":false,"vote_average":5.91,"vote_count":434}'
+  recorded_at: Mon, 11 Dec 2023 22:01:59 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/238?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -808,26 +886,30 @@ http_interactions:
       X-Memc-Key:
       - 4f4d3badf3c9d576e4abc7160d5da6a0
       X-Memc-Age:
-      - '1355'
+
+      - '13020'
       X-Memc-Expires:
-      - '22870'
+      - '14742'
       Date:
-      - Sat, 02 Dec 2023 00:19:22 GMT
+      - Mon, 11 Dec 2023 22:01:59 GMT
+
       Etag:
-      - W/"571ab4f4b50d676093ea10eaf4708063"
+      - W/"78f16e65cea04823f11a7aac88249574"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - RefreshHit from cloudfront
       Via:
-      - 1.1 217b83eccc1d56126f95c3f716950650.cloudfront.net (CloudFront)
+
+      - 1.1 b014854bd0108b7ed0058504b69ccb5a.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - N5ovWSynVwm-DQe1O2fg6jeYCE5bdeNquDL34J42A3zUnx6hg43bjQ==
+      - Ipc6ymsj7XNGzKIvTuXY3SfoKMuSonwhQ20yi5jYdKOiG28eEw0O7Q==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg","belongs_to_collection":{"id":230,"name":"The
@@ -836,11 +918,13 @@ http_interactions:
         fictional Italian-American Corleone crime family. When organized crime family
         patriarch, Vito Corleone barely survives an attempt on his life, his youngest
         son, Michael steps in to take care of the would-be killers, launching a campaign
-        of bloody revenge.","popularity":153.632,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
+        of bloody revenge.","popularity":203.45,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
         Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1972-03-14","revenue":245066411,"runtime":175,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Italian","iso_639_1":"it","name":"Italiano"},{"english_name":"Latin","iso_639_1":"la","name":"Latin"}],"status":"Released","tagline":"An
-        offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.708,"vote_count":19034}'
-  recorded_at: Sat, 02 Dec 2023 00:18:12 GMT
+
+        offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.709,"vote_count":19085}'
+  recorded_at: Mon, 11 Dec 2023 22:01:59 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/11?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -872,26 +956,30 @@ http_interactions:
       X-Memc-Key:
       - 5dfd93b8685f3044b4e3a03ef882eddf
       X-Memc-Age:
-      - '1343'
+
+      - '4499'
       X-Memc-Expires:
-      - '22256'
+      - '19377'
       Date:
-      - Sat, 02 Dec 2023 00:19:23 GMT
+      - Mon, 11 Dec 2023 22:01:59 GMT
+
       Etag:
-      - W/"de6b8483b176e09dcd5936b00a3ffebd"
+      - W/"5a5d7966e680698aa51f1b2753649cd5"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - RefreshHit from cloudfront
       Via:
-      - 1.1 08145b23e983b586cb4c0930b6b43c08.cloudfront.net (CloudFront)
+
+      - 1.1 bd414f5f75d6893558dff609c5ff1fe6.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - ry_Hum9JXmc5Ju2a9C3qYkYmI-ZKZhIC_cANGlaryzytvL5QmWh7AA==
+      - Z1LmNnlD9bNlJ_1YnjL1ulR0S85gFIqmzHNKQfzzYxNokHHq1sKNHw==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg","belongs_to_collection":{"id":10,"name":"Star
@@ -901,12 +989,14 @@ http_interactions:
         forces in their effort to take over the galactic Empire. Venturesome Luke
         Skywalker and dashing captain Han Solo team together with the loveable robot
         duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and
-        justice in the Empire.","popularity":97.011,"poster_path":"/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg","production_companies":[{"id":1,"logo_path":"/o86DbpburjxrqAzEDhXZcyE8pDb.png","name":"Lucasfilm
+        justice in the Empire.","popularity":109.1,"poster_path":"/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg","production_companies":[{"id":1,"logo_path":"/tlVSws0RvvtPBwViUyOFAO0vcQS.png","name":"Lucasfilm
         Ltd.","origin_country":"US"},{"id":25,"logo_path":"/qZCc1lty5FzX30aOCVRBLzaVmcp.png","name":"20th
         Century Fox","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1977-05-25","revenue":775398007,"runtime":121,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"A
-        long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.204,"vote_count":19354}'
-  recorded_at: Sat, 02 Dec 2023 00:18:12 GMT
+
+        long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.2,"vote_count":19389}'
+  recorded_at: Mon, 11 Dec 2023 22:01:59 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/120?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -938,26 +1028,30 @@ http_interactions:
       X-Memc-Key:
       - c08d8c0e8db4f65ba68fda321b06ca46
       X-Memc-Age:
-      - '5999'
+
+      - '2566'
       X-Memc-Expires:
-      - '22053'
+      - '19035'
       Date:
-      - Sat, 02 Dec 2023 00:19:23 GMT
+      - Mon, 11 Dec 2023 22:02:00 GMT
+
       Etag:
-      - W/"a5391e7f50683ead8a9d5e83a571680d"
+      - W/"679f6734bb06c23402a7b60db981f370"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - RefreshHit from cloudfront
       Via:
-      - 1.1 89f2505f9f8dbcdacd6d4a40d558810c.cloudfront.net (CloudFront)
+
+      - 1.1 a3b511649bade26170091701ae26b616.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - LBxdkiqGLyTDCm1UrnMvsi9BZSFYG2ZspyVA_OuVtadv1ucljg25lw==
+      - z6S6gRl_jIfIS4GhnwUN2OVh9cmrMUHdfKkbcQq8y8ckZNhWr-Xz1A==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg","belongs_to_collection":{"id":119,"name":"The
@@ -967,14 +1061,16 @@ http_interactions:
         his home in order to keep it from falling into the hands of its evil creator.
         Along the way, a fellowship is formed to protect the ringbearer and make sure
         that the ring arrives at its final destination: Mt. Doom, the only place where
-        it can be destroyed.","popularity":131.581,"poster_path":"/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg","production_companies":[{"id":12,"logo_path":"/mevhneWSqbjU22D1MXNd4H9x0r0.png","name":"New
+        it can be destroyed.","popularity":177.017,"poster_path":"/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg","production_companies":[{"id":12,"logo_path":"/iaYpEp3LQmb8AfAtmTvpqd4149c.png","name":"New
         Line Cinema","origin_country":"US"},{"id":11,"logo_path":"/6FAuASQHybRkZUk08p9PzSs9ezM.png","name":"WingNut
-        Films","origin_country":"NZ"},{"id":5237,"logo_path":null,"name":"The Saul
-        Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
+        Films","origin_country":"NZ"},{"id":5237,"logo_path":"/mlnr7vsBHvLye8oEb5A76C0t8x9.png","name":"The
+        Saul Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
         Zealand"},{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2001-12-18","revenue":871368364,"runtime":179,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"One
         ring to rule them all","title":"The Lord of the Rings: The Fellowship of the
-        Ring","video":false,"vote_average":8.405,"vote_count":23593}'
-  recorded_at: Sat, 02 Dec 2023 00:18:12 GMT
+
+        Ring","video":false,"vote_average":8.406,"vote_count":23638}'
+  recorded_at: Mon, 11 Dec 2023 22:02:00 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/238?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -1006,26 +1102,30 @@ http_interactions:
       X-Memc-Key:
       - 4f4d3badf3c9d576e4abc7160d5da6a0
       X-Memc-Age:
-      - '1355'
+
+      - '13020'
       X-Memc-Expires:
-      - '22870'
+      - '14742'
       Date:
-      - Sat, 02 Dec 2023 00:19:23 GMT
+      - Mon, 11 Dec 2023 22:02:00 GMT
+
       Etag:
-      - W/"571ab4f4b50d676093ea10eaf4708063"
+      - W/"78f16e65cea04823f11a7aac88249574"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - RefreshHit from cloudfront
       Via:
-      - 1.1 89f2505f9f8dbcdacd6d4a40d558810c.cloudfront.net (CloudFront)
+
+      - 1.1 0f4013a0af68dcba176ca4372e470df4.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - JkrpS_Bi5PiAlaO8cj_6Hen5nPTXosZSPi0DUkKbT91IWS_bTMVIdA==
+      - a6CVDF7sr_n16w6pM4C0RRHDgKUPyL6DpyqkuabF1HbcGSDjGAkd1g==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg","belongs_to_collection":{"id":230,"name":"The
@@ -1034,11 +1134,13 @@ http_interactions:
         fictional Italian-American Corleone crime family. When organized crime family
         patriarch, Vito Corleone barely survives an attempt on his life, his youngest
         son, Michael steps in to take care of the would-be killers, launching a campaign
-        of bloody revenge.","popularity":153.632,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
+        of bloody revenge.","popularity":203.45,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
         Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1972-03-14","revenue":245066411,"runtime":175,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Italian","iso_639_1":"it","name":"Italiano"},{"english_name":"Latin","iso_639_1":"la","name":"Latin"}],"status":"Released","tagline":"An
-        offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.708,"vote_count":19034}'
-  recorded_at: Sat, 02 Dec 2023 00:18:13 GMT
+
+        offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.709,"vote_count":19085}'
+  recorded_at: Mon, 11 Dec 2023 22:02:00 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/11?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -1070,26 +1172,30 @@ http_interactions:
       X-Memc-Key:
       - 5dfd93b8685f3044b4e3a03ef882eddf
       X-Memc-Age:
-      - '1343'
+
+      - '4499'
       X-Memc-Expires:
-      - '22256'
+      - '19377'
       Date:
-      - Sat, 02 Dec 2023 00:19:23 GMT
+      - Mon, 11 Dec 2023 22:02:00 GMT
+
       Etag:
-      - W/"de6b8483b176e09dcd5936b00a3ffebd"
+      - W/"5a5d7966e680698aa51f1b2753649cd5"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - RefreshHit from cloudfront
       Via:
-      - 1.1 3248b2a80cad9439db62dc48b3adc18e.cloudfront.net (CloudFront)
+
+      - 1.1 b014854bd0108b7ed0058504b69ccb5a.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - Xbn5bBbWmd35r1T_86wNwp1xRUP7J0CtueIkDDV9As5rmuFL5i4WhA==
+      - poat1QFimcA98A6-nhNqfGcDvlIiZQhohLNy63xDTnZVJPWoUVnYRQ==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg","belongs_to_collection":{"id":10,"name":"Star
@@ -1099,12 +1205,14 @@ http_interactions:
         forces in their effort to take over the galactic Empire. Venturesome Luke
         Skywalker and dashing captain Han Solo team together with the loveable robot
         duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and
-        justice in the Empire.","popularity":97.011,"poster_path":"/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg","production_companies":[{"id":1,"logo_path":"/o86DbpburjxrqAzEDhXZcyE8pDb.png","name":"Lucasfilm
+        justice in the Empire.","popularity":109.1,"poster_path":"/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg","production_companies":[{"id":1,"logo_path":"/tlVSws0RvvtPBwViUyOFAO0vcQS.png","name":"Lucasfilm
         Ltd.","origin_country":"US"},{"id":25,"logo_path":"/qZCc1lty5FzX30aOCVRBLzaVmcp.png","name":"20th
         Century Fox","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1977-05-25","revenue":775398007,"runtime":121,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"A
-        long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.204,"vote_count":19354}'
-  recorded_at: Sat, 02 Dec 2023 00:18:13 GMT
+
+        long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.2,"vote_count":19389}'
+  recorded_at: Mon, 11 Dec 2023 22:02:00 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/120?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -1136,26 +1244,30 @@ http_interactions:
       X-Memc-Key:
       - c08d8c0e8db4f65ba68fda321b06ca46
       X-Memc-Age:
-      - '5999'
+
+      - '2566'
       X-Memc-Expires:
-      - '22053'
+      - '19035'
       Date:
-      - Sat, 02 Dec 2023 00:19:23 GMT
+      - Mon, 11 Dec 2023 22:02:00 GMT
+
       Etag:
-      - W/"a5391e7f50683ead8a9d5e83a571680d"
+      - W/"679f6734bb06c23402a7b60db981f370"
       Vary:
       - Accept-Encoding
       - Origin
       X-Cache:
       - RefreshHit from cloudfront
       Via:
-      - 1.1 c39c9fc28287587de5ef37c524823ffa.cloudfront.net (CloudFront)
+
+      - 1.1 a3b511649bade26170091701ae26b616.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
-      - DFW57-P2
+      - SFO53-C1
       Alt-Svc:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
-      - tp7KLEakN_P5-4CEyfXclZ8nhkSuC2kviuNon4EHW6rI1RLrRVka1w==
+      - uoB8fdDN1IOOvQKjt1IRYkJr31dkKvRNgTOYQGSs4KQI7mKCNagAFg==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg","belongs_to_collection":{"id":119,"name":"The
@@ -1165,12 +1277,14 @@ http_interactions:
         his home in order to keep it from falling into the hands of its evil creator.
         Along the way, a fellowship is formed to protect the ringbearer and make sure
         that the ring arrives at its final destination: Mt. Doom, the only place where
-        it can be destroyed.","popularity":131.581,"poster_path":"/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg","production_companies":[{"id":12,"logo_path":"/mevhneWSqbjU22D1MXNd4H9x0r0.png","name":"New
+        it can be destroyed.","popularity":177.017,"poster_path":"/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg","production_companies":[{"id":12,"logo_path":"/iaYpEp3LQmb8AfAtmTvpqd4149c.png","name":"New
         Line Cinema","origin_country":"US"},{"id":11,"logo_path":"/6FAuASQHybRkZUk08p9PzSs9ezM.png","name":"WingNut
-        Films","origin_country":"NZ"},{"id":5237,"logo_path":null,"name":"The Saul
-        Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
+        Films","origin_country":"NZ"},{"id":5237,"logo_path":"/mlnr7vsBHvLye8oEb5A76C0t8x9.png","name":"The
+        Saul Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
         Zealand"},{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2001-12-18","revenue":871368364,"runtime":179,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"One
         ring to rule them all","title":"The Lord of the Rings: The Fellowship of the
-        Ring","video":false,"vote_average":8.405,"vote_count":23593}'
-  recorded_at: Sat, 02 Dec 2023 00:18:13 GMT
+
+        Ring","video":false,"vote_average":8.406,"vote_count":23638}'
+  recorded_at: Mon, 11 Dec 2023 22:02:00 GMT
+
 recorded_with: VCR 6.2.0

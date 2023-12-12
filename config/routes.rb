@@ -9,6 +9,11 @@ Rails.application.routes.draw do
   resources :users, only: [:new, :create, :show] do
     # resources :discover, only: [:index]
   end
+  get "/register", to: "users#register"
+  post "/register", to: "users#create"
+# make an alias for register ---> new
+  get "/login", to: "users#login_form"
+  post "/login", to: "users#login_user"
 
   get "/users/:id/discover", to: "movies#index"
   get "/users/:id/movies", to: "movies#search"

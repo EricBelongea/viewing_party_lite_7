@@ -37,7 +37,7 @@ RSpec.describe 'User Dashboard Page' do
     expect(page).to have_content("Date and Time: Starts on 2023/09/01 at 11:00")
     expect(page).to have_content("Hosted By: Capitainlearyo")
     expect(page).to have_content("Attending:")
-    expect(page).to have_content("Capitainlearyo Slick Ric Capitainlearyo Bob")
+    expect(page).to have_content("Capitainlearyo Capitainlearyo Bob")
 
     expect(page).to have_content("Hosting Parties")
   end
