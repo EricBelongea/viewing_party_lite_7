@@ -1,0 +1,59 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.themoviedb.org/3/movie/268?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.12
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json;charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Server:
+      - openresty
+      X-Memc:
+      - HIT
+      X-Memc-Key:
+      - 936fb7a2713bbd8f3861bd0cf26fd382
+      X-Memc-Age:
+      - '464'
+      X-Memc-Expires:
+      - '22151'
+      Date:
+      - Sat, 02 Dec 2023 00:19:26 GMT
+      Etag:
+      - W/"618e6c37711e166e79ebd37f074e4c8a"
+      Vary:
+      - Accept-Encoding
+      - Origin
+      X-Cache:
+      - RefreshHit from cloudfront
+      Via:
+      - 1.1 7803d0a33bb1ff45f063e605070d32b6.cloudfront.net (CloudFront)
+      X-Amz-Cf-Pop:
+      - DFW57-P2
+      Alt-Svc:
+      - h3=":443"; ma=86400
+      X-Amz-Cf-Id:
+      - 0MiDJ-57vSjFtHp4Utop5QfpAf001Ss3GBjwokMg8vCh_vjZ2vjyvg==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        eyJhZHVsdCI6ZmFsc2UsImJhY2tkcm9wX3BhdGgiOiIvZnJEUzhBNXZJUDkyN0tZQXhUVlZLUklicVp3LmpwZyIsImJlbG9uZ3NfdG9fY29sbGVjdGlvbiI6eyJpZCI6MTIwNzk0LCJuYW1lIjoiQmF0bWFuIENvbGxlY3Rpb24iLCJwb3N0ZXJfcGF0aCI6Ii80QVVvcXQ3MkNWUDRVVjkwMmhtZERqNHQ1UTkuanBnIiwiYmFja2Ryb3BfcGF0aCI6Ii80VUhaV3c1bFYzWm9hZFRqWHVWT2FrZEgzMkwuanBnIn0sImJ1ZGdldCI6MzUwMDAwMDAsImdlbnJlcyI6W3siaWQiOjE0LCJuYW1lIjoiRmFudGFzeSJ9LHsiaWQiOjI4LCJuYW1lIjoiQWN0aW9uIn0seyJpZCI6ODAsIm5hbWUiOiJDcmltZSJ9XSwiaG9tZXBhZ2UiOiIiLCJpZCI6MjY4LCJpbWRiX2lkIjoidHQwMDk2ODk1Iiwib3JpZ2luYWxfbGFuZ3VhZ2UiOiJlbiIsIm9yaWdpbmFsX3RpdGxlIjoiQmF0bWFuIiwib3ZlcnZpZXciOiJCYXRtYW4gbXVzdCBmYWNlIGhpcyBtb3N0IHJ1dGhsZXNzIG5lbWVzaXMgd2hlbiBhIGRlZm9ybWVkIG1hZG1hbiBjYWxsaW5nIGhpbXNlbGYgXCJUaGUgSm9rZXJcIiBzZWl6ZXMgY29udHJvbCBvZiBHb3RoYW0ncyBjcmltaW5hbCB1bmRlcndvcmxkLiIsInBvcHVsYXJpdHkiOjQxLjQwMSwicG9zdGVyX3BhdGgiOiIvY2lqNGRkMjF2MlJrMll0VVFiVjVrVzY5V0IyLmpwZyIsInByb2R1Y3Rpb25fY29tcGFuaWVzIjpbeyJpZCI6NDM1NywibG9nb19wYXRoIjpudWxsLCJuYW1lIjoiVGhlIEd1YmVyLVBldGVycyBDb21wYW55Iiwib3JpZ2luX2NvdW50cnkiOiIifSx7ImlkIjoxNzQsImxvZ29fcGF0aCI6Ii9JdUFsaEk5ZVZDOVo4VVFXT0lEZFdSS1NFSi5wbmciLCJuYW1lIjoiV2FybmVyIEJyb3MuIFBpY3R1cmVzIiwib3JpZ2luX2NvdW50cnkiOiJVUyJ9LHsiaWQiOjY3ODg5LCJsb2dvX3BhdGgiOm51bGwsIm5hbWUiOiJQb2x5Z3JhbSBQaWN0dXJlcyIsIm9yaWdpbl9jb3VudHJ5IjoiVVMifV0sInByb2R1Y3Rpb25fY291bnRyaWVzIjpbeyJpc29fMzE2Nl8xIjoiVVMiLCJuYW1lIjoiVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhIn1dLCJyZWxlYXNlX2RhdGUiOiIxOTg5LTA2LTIxIiwicmV2ZW51ZSI6NDExMzQ4OTI0LCJydW50aW1lIjoxMjYsInNwb2tlbl9sYW5ndWFnZXMiOlt7ImVuZ2xpc2hfbmFtZSI6IkVuZ2xpc2giLCJpc29fNjM5XzEiOiJlbiIsIm5hbWUiOiJFbmdsaXNoIn0seyJlbmdsaXNoX25hbWUiOiJGcmVuY2giLCJpc29fNjM5XzEiOiJmciIsIm5hbWUiOiJGcmFuw6dhaXMifV0sInN0YXR1cyI6IlJlbGVhc2VkIiwidGFnbGluZSI6IkhhdmUgeW91IGV2ZXIgZGFuY2VkIHdpdGggdGhlIGRldmlsIGluIHRoZSBwYWxlIG1vb25saWdodD8iLCJ0aXRsZSI6IkJhdG1hbiIsInZpZGVvIjpmYWxzZSwidm90ZV9hdmVyYWdlIjo3LjIyLCJ2b3RlX2NvdW50Ijo3MjQzfQ==
+  recorded_at: Sat, 02 Dec 2023 00:18:16 GMT
+recorded_with: VCR 6.2.0

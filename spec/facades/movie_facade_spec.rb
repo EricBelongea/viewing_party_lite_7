@@ -60,4 +60,34 @@ RSpec.describe 'Movie Facade' do
     expect(movie_1).to respond_to(:vote_count)
     expect(movie_1.vote_count).to be_a(Integer)
   end
+
+  it 'movie_details', :vcr do
+    movie_id = 123 
+    details = MovieFacade.movie_details(movie_id)
+    expect(details).to_not be_nil
+    expect(details).to be_a Hash
+    expect(details).to have_key :id
+    expect(details[:id]).to be_a(Integer)
+    expect(details).to have_key :poster_path
+    expect(details[:poster_path]).to be_a(String)
+  end
+
+  it 'movie_cast', :vcr do
+    movie_id = 123 
+    cast = MovieFacade.movie_cast(movie_id)
+    expect(cast).to_not be_nil
+    cast = MovieService.movie_cast(268)
+    expect(cast).to be_a Hash
+    expect(cast[:cast].first).to have_key :id
+    expect(cast[:cast].first[:id]).to be_a(Integer)
+  end
+
+  it 'movie_reviews', :vcr do
+    movie_id = 123 
+    reviews = MovieFacade.movie_reviews(movie_id)
+    expect(reviews).to_not be_nil
+    expect(reviews).to be_a Hash
+    expect(reviews).to have_key :id
+    expect(reviews[:id]).to be_a(Integer)
+  end
 end

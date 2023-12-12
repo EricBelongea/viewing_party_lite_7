@@ -66,4 +66,33 @@ describe MovieService do
 
     expect(search[:results].count).to eq(20)
   end
+
+  context "#movie_details", :vcr do
+      it "returns movie details" do
+        details = MovieService.movie_details(268)
+        expect(details).to be_a Hash
+        expect(details).to have_key :id
+        expect(details[:id]).to be_a(Integer)
+        expect(details).to have_key :poster_path
+        expect(details[:poster_path]).to be_a(String)
+      end
+    end
+
+    context "#movie_cast", :vcr do
+      it "returns movie cast" do
+        cast = MovieService.movie_cast(268)
+        expect(cast).to be_a Hash
+        expect(cast[:cast].first).to have_key :id
+        expect(cast[:cast].first[:id]).to be_a(Integer)
+      end
+    end
+
+    context "#movie_reviews", :vcr do
+      it "returns movie reviews" do
+        reviews = MovieService.movie_reviews(268)
+        expect(reviews).to be_a Hash
+        expect(reviews[:results].first).to have_key :id
+        expect(reviews[:results].first[:id]).to be_a(String)
+      end
+    end
 end

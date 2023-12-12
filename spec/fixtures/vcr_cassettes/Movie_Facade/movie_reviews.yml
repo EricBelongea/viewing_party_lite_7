@@ -1,0 +1,58 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.themoviedb.org/3/movie/123/reviews?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v2.7.12
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json;charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Date:
+      - Sat, 02 Dec 2023 00:19:20 GMT
+      Server:
+      - openresty
+      X-Memc:
+      - HIT
+      X-Memc-Key:
+      - 605243ff02f2e2fe04f33ca6e4f6620b
+      X-Memc-Age:
+      - '22260'
+      X-Memc-Expires:
+      - '6430'
+      Etag:
+      - W/"efaf808243194fc5a6fabad65ed9db15"
+      Vary:
+      - Accept-Encoding
+      - Origin
+      X-Cache:
+      - Miss from cloudfront
+      Via:
+      - 1.1 5dbfb405f169293d35ad8b9ac0babe30.cloudfront.net (CloudFront)
+      X-Amz-Cf-Pop:
+      - DFW57-P2
+      Alt-Svc:
+      - h3=":443"; ma=86400
+      X-Amz-Cf-Id:
+      - Eftvmvn-Qp6ogVpyY1ut5_OlC1CWN0eN-l-NhcjC9GqP6HEo87LeXw==
+    body:
+      encoding: ASCII-8BIT
+      string: '{"id":123,"page":1,"results":[],"total_pages":0,"total_results":0}'
+  recorded_at: Sat, 02 Dec 2023 00:18:09 GMT
+recorded_with: VCR 6.2.0

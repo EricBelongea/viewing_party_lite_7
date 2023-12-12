@@ -31,11 +31,13 @@ http_interactions:
       X-Memc-Key:
       - 5dfd93b8685f3044b4e3a03ef882eddf
       X-Memc-Age:
+
       - '4499'
       X-Memc-Expires:
       - '19377'
       Date:
       - Mon, 11 Dec 2023 22:01:57 GMT
+
       Etag:
       - W/"5a5d7966e680698aa51f1b2753649cd5"
       Vary:
@@ -44,6 +46,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 694410c900be78078eeebf840a01e4c8.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -51,6 +54,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - zE8qLJHd38o1mG1dp1bWbpcINTQM1d3uw2m56tUgdIsZySVN8spW8g==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg","belongs_to_collection":{"id":10,"name":"Star
@@ -64,8 +68,10 @@ http_interactions:
         Ltd.","origin_country":"US"},{"id":25,"logo_path":"/qZCc1lty5FzX30aOCVRBLzaVmcp.png","name":"20th
         Century Fox","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1977-05-25","revenue":775398007,"runtime":121,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"A
+
         long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.2,"vote_count":19389}'
   recorded_at: Mon, 11 Dec 2023 22:01:57 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/120?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -97,11 +103,13 @@ http_interactions:
       X-Memc-Key:
       - c08d8c0e8db4f65ba68fda321b06ca46
       X-Memc-Age:
+
       - '2566'
       X-Memc-Expires:
       - '19035'
       Date:
       - Mon, 11 Dec 2023 22:01:57 GMT
+
       Etag:
       - W/"679f6734bb06c23402a7b60db981f370"
       Vary:
@@ -110,6 +118,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 83a6f42adff040301dd9cde8ff611a9c.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -117,6 +126,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - yu-J76Vu8mufYbL8vGlcL2wcU9ja4L7WV7bxAVso4px02b0IoeG-jQ==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg","belongs_to_collection":{"id":119,"name":"The
@@ -132,8 +142,10 @@ http_interactions:
         Saul Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
         Zealand"},{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2001-12-18","revenue":871368364,"runtime":179,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"One
         ring to rule them all","title":"The Lord of the Rings: The Fellowship of the
+
         Ring","video":false,"vote_average":8.406,"vote_count":23638}'
   recorded_at: Mon, 11 Dec 2023 22:01:57 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/20?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -159,7 +171,9 @@ http_interactions:
       Connection:
       - keep-alive
       Date:
+
       - Mon, 11 Dec 2023 22:01:58 GMT
+
       Server:
       - openresty
       X-Memc:
@@ -167,9 +181,11 @@ http_interactions:
       X-Memc-Key:
       - 2f19019284ff58d07a668fd3407120ec
       X-Memc-Age:
+
       - '24916'
       X-Memc-Expires:
       - '531'
+
       Etag:
       - W/"3ef7481efd5f40e89e174a013c11901b"
       Vary:
@@ -178,6 +194,7 @@ http_interactions:
       X-Cache:
       - Miss from cloudfront
       Via:
+
       - 1.1 694410c900be78078eeebf840a01e4c8.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -185,6 +202,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - rThZiT229h2d7RvHUXECcvVMfuM-KMPOGrbTeHL6F-192v1rUMpLbw==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/kZyurQjTMLHalUxs7sHgH5XeiwO.jpg","belongs_to_collection":null,"budget":2500000,"genres":[{"id":18,"name":"Drama"},{"id":10749,"name":"Romance"}],"homepage":"http://www.clubcultura.com/clubcine/clubcineastas/isabelcoixet/mividasinmi/index.htm","id":20,"imdb_id":"tt0314412","original_language":"en","original_title":"My
@@ -193,8 +211,10 @@ http_interactions:
         her family of her illness.","popularity":27.108,"poster_path":"/sFSkn5rrQqXJkRNa2rMWqzmEuhR.jpg","production_companies":[{"id":49,"logo_path":"/xpf5iHdvvBtsH8jBMlgIJHAET0c.png","name":"El
         Deseo","origin_country":"ES"},{"id":77,"logo_path":null,"name":"Milestone
         Productions","origin_country":""}],"production_countries":[{"iso_3166_1":"CA","name":"Canada"},{"iso_3166_1":"ES","name":"Spain"}],"release_date":"2003-03-07","revenue":12300000,"runtime":106,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"","title":"My
+
         Life Without Me","video":false,"vote_average":5.91,"vote_count":434}'
   recorded_at: Mon, 11 Dec 2023 22:01:58 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/238?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -228,9 +248,11 @@ http_interactions:
       X-Memc-Key:
       - 4f4d3badf3c9d576e4abc7160d5da6a0
       X-Memc-Age:
+
       - '13020'
       X-Memc-Expires:
       - '14742'
+
       Etag:
       - W/"78f16e65cea04823f11a7aac88249574"
       Vary:
@@ -239,6 +261,7 @@ http_interactions:
       X-Cache:
       - Miss from cloudfront
       Via:
+
       - 1.1 01dbe7e23991a177a7cdfba5803db41c.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -246,6 +269,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - 50TyFktL5vkIX6Bz1bEpiGtVgbXhVUrymtUkcHwXsz73RiA0ozzy-A==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg","belongs_to_collection":{"id":230,"name":"The
@@ -257,8 +281,10 @@ http_interactions:
         of bloody revenge.","popularity":203.45,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
         Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1972-03-14","revenue":245066411,"runtime":175,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Italian","iso_639_1":"it","name":"Italiano"},{"english_name":"Latin","iso_639_1":"la","name":"Latin"}],"status":"Released","tagline":"An
+
         offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.709,"vote_count":19085}'
   recorded_at: Mon, 11 Dec 2023 22:01:58 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/238?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -290,11 +316,13 @@ http_interactions:
       X-Memc-Key:
       - 4f4d3badf3c9d576e4abc7160d5da6a0
       X-Memc-Age:
+
       - '13020'
       X-Memc-Expires:
       - '14742'
       Date:
       - Mon, 11 Dec 2023 22:01:58 GMT
+
       Etag:
       - W/"78f16e65cea04823f11a7aac88249574"
       Vary:
@@ -303,6 +331,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 ca38026a6de2ccb3904aed4709dff3d0.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -310,6 +339,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - V-Vio-LBpwVomJkzLRvimg7AGMFHBWplwRHo8QsMyBabAP2hx-VrZQ==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg","belongs_to_collection":{"id":230,"name":"The
@@ -321,8 +351,10 @@ http_interactions:
         of bloody revenge.","popularity":203.45,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
         Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1972-03-14","revenue":245066411,"runtime":175,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Italian","iso_639_1":"it","name":"Italiano"},{"english_name":"Latin","iso_639_1":"la","name":"Latin"}],"status":"Released","tagline":"An
+
         offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.709,"vote_count":19085}'
   recorded_at: Mon, 11 Dec 2023 22:01:58 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/11?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -354,11 +386,13 @@ http_interactions:
       X-Memc-Key:
       - 5dfd93b8685f3044b4e3a03ef882eddf
       X-Memc-Age:
+
       - '4499'
       X-Memc-Expires:
       - '19377'
       Date:
       - Mon, 11 Dec 2023 22:01:58 GMT
+
       Etag:
       - W/"5a5d7966e680698aa51f1b2753649cd5"
       Vary:
@@ -367,6 +401,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 abc09cc7557c1b633f2222f0c307d884.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -374,6 +409,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - 8mcixzasedxuGGXdsaKValIixEkT6Lz2TnMqCFQLHEeQjzEaenfPOw==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg","belongs_to_collection":{"id":10,"name":"Star
@@ -387,8 +423,10 @@ http_interactions:
         Ltd.","origin_country":"US"},{"id":25,"logo_path":"/qZCc1lty5FzX30aOCVRBLzaVmcp.png","name":"20th
         Century Fox","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1977-05-25","revenue":775398007,"runtime":121,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"A
+
         long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.2,"vote_count":19389}'
   recorded_at: Mon, 11 Dec 2023 22:01:58 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/120?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -420,11 +458,13 @@ http_interactions:
       X-Memc-Key:
       - c08d8c0e8db4f65ba68fda321b06ca46
       X-Memc-Age:
+
       - '2566'
       X-Memc-Expires:
       - '19035'
       Date:
       - Mon, 11 Dec 2023 22:01:58 GMT
+
       Etag:
       - W/"679f6734bb06c23402a7b60db981f370"
       Vary:
@@ -433,6 +473,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 f2ad9d6c3218f50a68fdbc2b2af517aa.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -440,6 +481,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - Y33hSoS9sD7T6WQlRL94te52fzrk7W4SfvJlKvnoQp8HWIsvqxXAjw==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg","belongs_to_collection":{"id":119,"name":"The
@@ -455,8 +497,10 @@ http_interactions:
         Saul Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
         Zealand"},{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2001-12-18","revenue":871368364,"runtime":179,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"One
         ring to rule them all","title":"The Lord of the Rings: The Fellowship of the
+
         Ring","video":false,"vote_average":8.406,"vote_count":23638}'
   recorded_at: Mon, 11 Dec 2023 22:01:58 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/20?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -482,7 +526,9 @@ http_interactions:
       Connection:
       - keep-alive
       Date:
+
       - Mon, 11 Dec 2023 22:01:58 GMT
+
       Server:
       - openresty
       X-Memc:
@@ -490,9 +536,11 @@ http_interactions:
       X-Memc-Key:
       - 2f19019284ff58d07a668fd3407120ec
       X-Memc-Age:
+
       - '24916'
       X-Memc-Expires:
       - '531'
+
       Etag:
       - W/"3ef7481efd5f40e89e174a013c11901b"
       Vary:
@@ -501,6 +549,7 @@ http_interactions:
       X-Cache:
       - Miss from cloudfront
       Via:
+
       - 1.1 1d07855a178a7ad07a8bd34ed25f09cc.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -508,6 +557,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - l86RguKU1Fe23RAQHAagCv6KpyH0V91XZX7GOSufaPV0GjOkzxBvpw==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/kZyurQjTMLHalUxs7sHgH5XeiwO.jpg","belongs_to_collection":null,"budget":2500000,"genres":[{"id":18,"name":"Drama"},{"id":10749,"name":"Romance"}],"homepage":"http://www.clubcultura.com/clubcine/clubcineastas/isabelcoixet/mividasinmi/index.htm","id":20,"imdb_id":"tt0314412","original_language":"en","original_title":"My
@@ -516,8 +566,10 @@ http_interactions:
         her family of her illness.","popularity":27.108,"poster_path":"/sFSkn5rrQqXJkRNa2rMWqzmEuhR.jpg","production_companies":[{"id":49,"logo_path":"/xpf5iHdvvBtsH8jBMlgIJHAET0c.png","name":"El
         Deseo","origin_country":"ES"},{"id":77,"logo_path":null,"name":"Milestone
         Productions","origin_country":""}],"production_countries":[{"iso_3166_1":"CA","name":"Canada"},{"iso_3166_1":"ES","name":"Spain"}],"release_date":"2003-03-07","revenue":12300000,"runtime":106,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"","title":"My
+
         Life Without Me","video":false,"vote_average":5.91,"vote_count":434}'
   recorded_at: Mon, 11 Dec 2023 22:01:58 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/238?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -549,11 +601,13 @@ http_interactions:
       X-Memc-Key:
       - 4f4d3badf3c9d576e4abc7160d5da6a0
       X-Memc-Age:
+
       - '13020'
       X-Memc-Expires:
       - '14742'
       Date:
       - Mon, 11 Dec 2023 22:01:59 GMT
+
       Etag:
       - W/"78f16e65cea04823f11a7aac88249574"
       Vary:
@@ -562,6 +616,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 6d77342eb60c8ea96903996368766612.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -569,6 +624,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - uVLPFGALMi4yrLqyeVT7doHjOsRY3IhVxZFPyHSZrOmCHXwpbqDizQ==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg","belongs_to_collection":{"id":230,"name":"The
@@ -580,8 +636,10 @@ http_interactions:
         of bloody revenge.","popularity":203.45,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
         Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1972-03-14","revenue":245066411,"runtime":175,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Italian","iso_639_1":"it","name":"Italiano"},{"english_name":"Latin","iso_639_1":"la","name":"Latin"}],"status":"Released","tagline":"An
+
         offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.709,"vote_count":19085}'
   recorded_at: Mon, 11 Dec 2023 22:01:59 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/11?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -613,11 +671,13 @@ http_interactions:
       X-Memc-Key:
       - 5dfd93b8685f3044b4e3a03ef882eddf
       X-Memc-Age:
+
       - '4499'
       X-Memc-Expires:
       - '19377'
       Date:
       - Mon, 11 Dec 2023 22:01:59 GMT
+
       Etag:
       - W/"5a5d7966e680698aa51f1b2753649cd5"
       Vary:
@@ -626,6 +686,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 b014854bd0108b7ed0058504b69ccb5a.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -633,6 +694,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - E9SMqs-o5uhYoe8pnxL9AiObCwR2EJMPJCfxwNScrjRDKgaalqU2zw==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg","belongs_to_collection":{"id":10,"name":"Star
@@ -646,8 +708,10 @@ http_interactions:
         Ltd.","origin_country":"US"},{"id":25,"logo_path":"/qZCc1lty5FzX30aOCVRBLzaVmcp.png","name":"20th
         Century Fox","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1977-05-25","revenue":775398007,"runtime":121,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"A
+
         long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.2,"vote_count":19389}'
   recorded_at: Mon, 11 Dec 2023 22:01:59 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/120?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -679,11 +743,13 @@ http_interactions:
       X-Memc-Key:
       - c08d8c0e8db4f65ba68fda321b06ca46
       X-Memc-Age:
+
       - '2566'
       X-Memc-Expires:
       - '19035'
       Date:
       - Mon, 11 Dec 2023 22:01:59 GMT
+
       Etag:
       - W/"679f6734bb06c23402a7b60db981f370"
       Vary:
@@ -692,6 +758,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 f2ad9d6c3218f50a68fdbc2b2af517aa.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -699,6 +766,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - uU0TjDSRRgG9zNIqWbvqXE0B99LIYRaTUfuGxqnWdTnY40EnQ6c6sw==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg","belongs_to_collection":{"id":119,"name":"The
@@ -714,8 +782,10 @@ http_interactions:
         Saul Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
         Zealand"},{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2001-12-18","revenue":871368364,"runtime":179,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"One
         ring to rule them all","title":"The Lord of the Rings: The Fellowship of the
+
         Ring","video":false,"vote_average":8.406,"vote_count":23638}'
   recorded_at: Mon, 11 Dec 2023 22:01:59 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/20?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -741,7 +811,9 @@ http_interactions:
       Connection:
       - keep-alive
       Date:
+
       - Mon, 11 Dec 2023 22:01:59 GMT
+
       Server:
       - openresty
       X-Memc:
@@ -749,9 +821,11 @@ http_interactions:
       X-Memc-Key:
       - 2f19019284ff58d07a668fd3407120ec
       X-Memc-Age:
+
       - '24916'
       X-Memc-Expires:
       - '531'
+
       Etag:
       - W/"3ef7481efd5f40e89e174a013c11901b"
       Vary:
@@ -760,6 +834,7 @@ http_interactions:
       X-Cache:
       - Miss from cloudfront
       Via:
+
       - 1.1 098d11622fcaacdb87ba92e6eaca351c.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -767,6 +842,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - "-O90cZ7jgeCT2RpL0JpiBpFMKdvh6H9Sc2B5PX3KHtdNNa-ARp_6_g=="
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/kZyurQjTMLHalUxs7sHgH5XeiwO.jpg","belongs_to_collection":null,"budget":2500000,"genres":[{"id":18,"name":"Drama"},{"id":10749,"name":"Romance"}],"homepage":"http://www.clubcultura.com/clubcine/clubcineastas/isabelcoixet/mividasinmi/index.htm","id":20,"imdb_id":"tt0314412","original_language":"en","original_title":"My
@@ -775,8 +851,10 @@ http_interactions:
         her family of her illness.","popularity":27.108,"poster_path":"/sFSkn5rrQqXJkRNa2rMWqzmEuhR.jpg","production_companies":[{"id":49,"logo_path":"/xpf5iHdvvBtsH8jBMlgIJHAET0c.png","name":"El
         Deseo","origin_country":"ES"},{"id":77,"logo_path":null,"name":"Milestone
         Productions","origin_country":""}],"production_countries":[{"iso_3166_1":"CA","name":"Canada"},{"iso_3166_1":"ES","name":"Spain"}],"release_date":"2003-03-07","revenue":12300000,"runtime":106,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"","title":"My
+
         Life Without Me","video":false,"vote_average":5.91,"vote_count":434}'
   recorded_at: Mon, 11 Dec 2023 22:01:59 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/238?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -808,11 +886,13 @@ http_interactions:
       X-Memc-Key:
       - 4f4d3badf3c9d576e4abc7160d5da6a0
       X-Memc-Age:
+
       - '13020'
       X-Memc-Expires:
       - '14742'
       Date:
       - Mon, 11 Dec 2023 22:01:59 GMT
+
       Etag:
       - W/"78f16e65cea04823f11a7aac88249574"
       Vary:
@@ -821,6 +901,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 b014854bd0108b7ed0058504b69ccb5a.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -828,6 +909,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - Ipc6ymsj7XNGzKIvTuXY3SfoKMuSonwhQ20yi5jYdKOiG28eEw0O7Q==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg","belongs_to_collection":{"id":230,"name":"The
@@ -839,8 +921,10 @@ http_interactions:
         of bloody revenge.","popularity":203.45,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
         Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1972-03-14","revenue":245066411,"runtime":175,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Italian","iso_639_1":"it","name":"Italiano"},{"english_name":"Latin","iso_639_1":"la","name":"Latin"}],"status":"Released","tagline":"An
+
         offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.709,"vote_count":19085}'
   recorded_at: Mon, 11 Dec 2023 22:01:59 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/11?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -872,11 +956,13 @@ http_interactions:
       X-Memc-Key:
       - 5dfd93b8685f3044b4e3a03ef882eddf
       X-Memc-Age:
+
       - '4499'
       X-Memc-Expires:
       - '19377'
       Date:
       - Mon, 11 Dec 2023 22:01:59 GMT
+
       Etag:
       - W/"5a5d7966e680698aa51f1b2753649cd5"
       Vary:
@@ -885,6 +971,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 bd414f5f75d6893558dff609c5ff1fe6.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -892,6 +979,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - Z1LmNnlD9bNlJ_1YnjL1ulR0S85gFIqmzHNKQfzzYxNokHHq1sKNHw==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg","belongs_to_collection":{"id":10,"name":"Star
@@ -905,8 +993,10 @@ http_interactions:
         Ltd.","origin_country":"US"},{"id":25,"logo_path":"/qZCc1lty5FzX30aOCVRBLzaVmcp.png","name":"20th
         Century Fox","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1977-05-25","revenue":775398007,"runtime":121,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"A
+
         long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.2,"vote_count":19389}'
   recorded_at: Mon, 11 Dec 2023 22:01:59 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/120?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -938,11 +1028,13 @@ http_interactions:
       X-Memc-Key:
       - c08d8c0e8db4f65ba68fda321b06ca46
       X-Memc-Age:
+
       - '2566'
       X-Memc-Expires:
       - '19035'
       Date:
       - Mon, 11 Dec 2023 22:02:00 GMT
+
       Etag:
       - W/"679f6734bb06c23402a7b60db981f370"
       Vary:
@@ -951,6 +1043,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 a3b511649bade26170091701ae26b616.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -958,6 +1051,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - z6S6gRl_jIfIS4GhnwUN2OVh9cmrMUHdfKkbcQq8y8ckZNhWr-Xz1A==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg","belongs_to_collection":{"id":119,"name":"The
@@ -973,8 +1067,10 @@ http_interactions:
         Saul Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
         Zealand"},{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2001-12-18","revenue":871368364,"runtime":179,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"One
         ring to rule them all","title":"The Lord of the Rings: The Fellowship of the
+
         Ring","video":false,"vote_average":8.406,"vote_count":23638}'
   recorded_at: Mon, 11 Dec 2023 22:02:00 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/238?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -1006,11 +1102,13 @@ http_interactions:
       X-Memc-Key:
       - 4f4d3badf3c9d576e4abc7160d5da6a0
       X-Memc-Age:
+
       - '13020'
       X-Memc-Expires:
       - '14742'
       Date:
       - Mon, 11 Dec 2023 22:02:00 GMT
+
       Etag:
       - W/"78f16e65cea04823f11a7aac88249574"
       Vary:
@@ -1019,6 +1117,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 0f4013a0af68dcba176ca4372e470df4.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -1026,6 +1125,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - a6CVDF7sr_n16w6pM4C0RRHDgKUPyL6DpyqkuabF1HbcGSDjGAkd1g==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg","belongs_to_collection":{"id":230,"name":"The
@@ -1037,8 +1137,10 @@ http_interactions:
         of bloody revenge.","popularity":203.45,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
         Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1972-03-14","revenue":245066411,"runtime":175,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Italian","iso_639_1":"it","name":"Italiano"},{"english_name":"Latin","iso_639_1":"la","name":"Latin"}],"status":"Released","tagline":"An
+
         offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.709,"vote_count":19085}'
   recorded_at: Mon, 11 Dec 2023 22:02:00 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/11?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -1070,11 +1172,13 @@ http_interactions:
       X-Memc-Key:
       - 5dfd93b8685f3044b4e3a03ef882eddf
       X-Memc-Age:
+
       - '4499'
       X-Memc-Expires:
       - '19377'
       Date:
       - Mon, 11 Dec 2023 22:02:00 GMT
+
       Etag:
       - W/"5a5d7966e680698aa51f1b2753649cd5"
       Vary:
@@ -1083,6 +1187,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 b014854bd0108b7ed0058504b69ccb5a.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -1090,6 +1195,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - poat1QFimcA98A6-nhNqfGcDvlIiZQhohLNy63xDTnZVJPWoUVnYRQ==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg","belongs_to_collection":{"id":10,"name":"Star
@@ -1103,8 +1209,10 @@ http_interactions:
         Ltd.","origin_country":"US"},{"id":25,"logo_path":"/qZCc1lty5FzX30aOCVRBLzaVmcp.png","name":"20th
         Century Fox","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1977-05-25","revenue":775398007,"runtime":121,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"A
+
         long time ago in a galaxy far, far away...","title":"Star Wars","video":false,"vote_average":8.2,"vote_count":19389}'
   recorded_at: Mon, 11 Dec 2023 22:02:00 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/120?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -1136,11 +1244,13 @@ http_interactions:
       X-Memc-Key:
       - c08d8c0e8db4f65ba68fda321b06ca46
       X-Memc-Age:
+
       - '2566'
       X-Memc-Expires:
       - '19035'
       Date:
       - Mon, 11 Dec 2023 22:02:00 GMT
+
       Etag:
       - W/"679f6734bb06c23402a7b60db981f370"
       Vary:
@@ -1149,6 +1259,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 a3b511649bade26170091701ae26b616.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -1156,6 +1267,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - uoB8fdDN1IOOvQKjt1IRYkJr31dkKvRNgTOYQGSs4KQI7mKCNagAFg==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg","belongs_to_collection":{"id":119,"name":"The
@@ -1171,6 +1283,8 @@ http_interactions:
         Saul Zaentz Company","origin_country":"US"}],"production_countries":[{"iso_3166_1":"NZ","name":"New
         Zealand"},{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2001-12-18","revenue":871368364,"runtime":179,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"One
         ring to rule them all","title":"The Lord of the Rings: The Fellowship of the
+
         Ring","video":false,"vote_average":8.406,"vote_count":23638}'
   recorded_at: Mon, 11 Dec 2023 22:02:00 GMT
+
 recorded_with: VCR 6.2.0

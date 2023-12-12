@@ -31,11 +31,13 @@ http_interactions:
       X-Memc-Key:
       - 4f4d3badf3c9d576e4abc7160d5da6a0
       X-Memc-Age:
+
       - '13020'
       X-Memc-Expires:
       - '14742'
       Date:
       - Mon, 11 Dec 2023 22:02:01 GMT
+
       Etag:
       - W/"78f16e65cea04823f11a7aac88249574"
       Vary:
@@ -44,6 +46,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 098d11622fcaacdb87ba92e6eaca351c.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -51,6 +54,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - gd6kVmIQ_Q5T72cfxoRUBCqd5r7pA3OwmTogowKpNaAk6Yk3q3HB3g==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg","belongs_to_collection":{"id":230,"name":"The
@@ -62,8 +66,10 @@ http_interactions:
         of bloody revenge.","popularity":203.45,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
         Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1972-03-14","revenue":245066411,"runtime":175,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Italian","iso_639_1":"it","name":"Italiano"},{"english_name":"Latin","iso_639_1":"la","name":"Latin"}],"status":"Released","tagline":"An
+
         offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.709,"vote_count":19085}'
   recorded_at: Mon, 11 Dec 2023 22:02:01 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/238?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -95,11 +101,13 @@ http_interactions:
       X-Memc-Key:
       - 4f4d3badf3c9d576e4abc7160d5da6a0
       X-Memc-Age:
+
       - '13020'
       X-Memc-Expires:
       - '14742'
       Date:
       - Mon, 11 Dec 2023 22:02:02 GMT
+
       Etag:
       - W/"78f16e65cea04823f11a7aac88249574"
       Vary:
@@ -108,6 +116,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 a0fdc0fd69b93d134cd1b726f68c77b4.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -115,6 +124,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - OhZEbD3gYg5-FsA8-RS-qRTcAyX1lq2ri75Uh_Qg5WjSlOO521u0Sg==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg","belongs_to_collection":{"id":230,"name":"The
@@ -126,8 +136,10 @@ http_interactions:
         of bloody revenge.","popularity":203.45,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
         Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1972-03-14","revenue":245066411,"runtime":175,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Italian","iso_639_1":"it","name":"Italiano"},{"english_name":"Latin","iso_639_1":"la","name":"Latin"}],"status":"Released","tagline":"An
+
         offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.709,"vote_count":19085}'
   recorded_at: Mon, 11 Dec 2023 22:02:02 GMT
+
 - request:
     method: get
     uri: https://api.themoviedb.org/3/movie/238?api_key=c5d87ff6f6c9e5b4d80f024fe25ecdf9
@@ -159,11 +171,13 @@ http_interactions:
       X-Memc-Key:
       - 4f4d3badf3c9d576e4abc7160d5da6a0
       X-Memc-Age:
+
       - '13020'
       X-Memc-Expires:
       - '14742'
       Date:
       - Mon, 11 Dec 2023 22:02:02 GMT
+
       Etag:
       - W/"78f16e65cea04823f11a7aac88249574"
       Vary:
@@ -172,6 +186,7 @@ http_interactions:
       X-Cache:
       - RefreshHit from cloudfront
       Via:
+
       - 1.1 ba51bb9649a17fe3932d945cc355c922.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - SFO53-C1
@@ -179,6 +194,7 @@ http_interactions:
       - h3=":443"; ma=86400
       X-Amz-Cf-Id:
       - HL5955XygCyO3Ta96AsvCTPwaFITg_qcvRgonU7Y9C_jlsGCKUSV9w==
+
     body:
       encoding: ASCII-8BIT
       string: '{"adult":false,"backdrop_path":"/tmU7GeKVybMWFButWEGl2M4GeiP.jpg","belongs_to_collection":{"id":230,"name":"The
@@ -190,6 +206,8 @@ http_interactions:
         of bloody revenge.","popularity":203.45,"poster_path":"/3bhkrj58Vtu7enYsRolD1fZdja1.jpg","production_companies":[{"id":4,"logo_path":"/gz66EfNoYPqHTYI4q9UEN4CbHRc.png","name":"Paramount","origin_country":"US"},{"id":10211,"logo_path":null,"name":"Alfran
         Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United
         States of America"}],"release_date":"1972-03-14","revenue":245066411,"runtime":175,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Italian","iso_639_1":"it","name":"Italiano"},{"english_name":"Latin","iso_639_1":"la","name":"Latin"}],"status":"Released","tagline":"An
+
         offer you can''t refuse.","title":"The Godfather","video":false,"vote_average":8.709,"vote_count":19085}'
   recorded_at: Mon, 11 Dec 2023 22:02:02 GMT
+
 recorded_with: VCR 6.2.0
